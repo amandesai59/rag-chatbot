@@ -1,0 +1,25 @@
+# FAISS index files
+*.faiss
+*.pkl
+*.bin
+*.index
+
+# Docs folder content
+docs/*
+
+# Keep the folder but not its files
+!.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+.python-version
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
